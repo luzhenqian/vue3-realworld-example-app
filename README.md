@@ -6,7 +6,7 @@
 
 This codebase was created to demonstrate a fully fledged fullstack application built with **[Vue3]** including CRUD operations, authentication, routing, pagination, and more.
 
-We've gone to great lengths to adhere to the **[YOUR_FRAMEWORK]** community styleguides & best practices.
+We've gone to great lengths to adhere to the **[Vue3]** community styleguides & best practices.
 
 For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
